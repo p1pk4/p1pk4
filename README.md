@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bioinformatics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on  it company and Life Science
-- Youtube - https://www.youtube.com/channel/UC2QOvRVBvHuKWGuYBaqC8Tw
+- Youtube - not now
 - 📫 How to reach me www.linkedin.com/in/igor-ruvinskii-62517765
 
 <!---
