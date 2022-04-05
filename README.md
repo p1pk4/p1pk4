@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToxicBugsy
 - 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning Python, Django, SQL, html, css, scss
+- 🌱 I’m currently learning: Python, Django, SQL, html, css, scss
 - 💞️ I’m looking to collaborate on  it company and Life Science
 - 📫 How to reach me www.linkedin.com/in/igor-ruvinskii-62517765
 
