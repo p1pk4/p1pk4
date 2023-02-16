@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToxicBugsy
 - 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning: Java
+- 🌱 I’m currently learning: Fullstack
 - 📫 How to reach me www.linkedin.com/in/igor-ruvinskii-62517765
 
 <!---
