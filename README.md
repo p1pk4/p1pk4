@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ToxicBugsy
-- 👀 I’m interested in Bioinformatics
+- 👀 I’m interested in Bioinformatics and Neurobiology
 - 🌱 I’m currently learning: Fullstack
 - 📫 How to reach me www.linkedin.com/in/igor-ruvinskii-62517765
 
